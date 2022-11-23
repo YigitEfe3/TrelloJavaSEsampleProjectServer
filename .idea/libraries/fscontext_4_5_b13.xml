@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fscontext-4.5-b13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fscontext-4.5-b13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
